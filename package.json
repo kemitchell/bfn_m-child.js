@@ -1,0 +1,12 @@
+{
+  "name": "bfn_m-child",
+  "description": "uses a shell script from a dependency",
+  "version": "0.0.0",
+  "bin": "node_modules/bfn_m-grandchild/script",
+  "dependencies": {
+    "bfn_m-grandchild": "kemitchell/bfn_m-grandchild.js"
+  },
+  "license": "MIT",
+  "private": true,
+  "repository": "kemitchell/bfn_m-child"
+}
