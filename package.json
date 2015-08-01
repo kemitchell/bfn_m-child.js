@@ -7,6 +7,5 @@
     "bfn_m-grandchild": "kemitchell/bfn_m-grandchild.js"
   },
   "license": "MIT",
-  "private": true,
   "repository": "kemitchell/bfn_m-child"
 }
