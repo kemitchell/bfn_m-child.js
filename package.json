@@ -1,7 +1,7 @@
 {
   "name": "bfn_m-child",
   "description": "uses a shell script from a dependency",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "bin": "node_modules/bfn_m-grandchild/script",
   "dependencies": {
     "bfn_m-grandchild": "*"
