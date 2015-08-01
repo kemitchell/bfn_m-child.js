@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "bin": "node_modules/bfn_m-grandchild/script",
   "dependencies": {
-    "bfn_m-grandchild": "kemitchell/bfn_m-grandchild.js"
+    "bfn_m-grandchild": "*"
   },
   "license": "MIT",
   "repository": "kemitchell/bfn_m-child"
